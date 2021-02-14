@@ -5,9 +5,5 @@
 layout: home
 ---
 
-Welcome to my blog website
-
-I will post just about anything in this blog
-
-{{jekyll.environment}}
+Welcome to my blog
 
