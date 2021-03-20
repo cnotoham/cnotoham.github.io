@@ -30,7 +30,7 @@ On the front-end stuff:
 <img src="/assets/images/angular.svg">
 <img src="/assets/images/html5.svg" height="64px" width="64px" alt="html5">
 <img src="/assets/images/css.svg" height="64px" width="64px" alt="css">
-<img src="/assets/images/JavaScript.svg" height="64px" width="64px" alt="js">
+<img src="/assets/images/javascript.svg" height="64px" width="64px" alt="js">
 <img src="/assets/images/typescript.svg" height="64px" width="64px" alt="ts">
 <img src="/assets/images/nodejs.svg" height="64px" width="64px" alt="nodejs">
 <img src="/assets/images/cordova.svg" height="64px" width="64px" alt="cordova">
