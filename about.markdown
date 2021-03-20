@@ -9,8 +9,8 @@ I am a software engineer who is passionate on learning and experimenting new thi
 I know enough the followings to get me into trouble:  
 On the back-end stuff:  
 
-<img src="/assets/images/netcore.svg">
-<img src="/assets/images/mongodb.svg">
+<img src="/assets/images/netcore.svg" height="64px" width="64px" alt="netcore">
+<img src="/assets/images/mongodb.svg" height="64px" width="64px" alt="mongodb">
 <img src="/assets/images/netframework.svg">
 <img src="/assets/images/azure-function.svg">
 <img src="/assets/images/oracle.svg">
